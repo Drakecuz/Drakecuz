@@ -66,7 +66,7 @@
 
 <br clear="both">
 
-<h3 align="center">"everyone sees what you appear to be, few experience what you really are" - Niccholo Machiavelli</h3>
+<h3 align="center">“Everyone sees what you appear to be, few experience what you really are.” -Niccolò Machiavelli</h3>
 
 ###
 
