@@ -25,12 +25,13 @@
 <h1 align="left">🦹‍♂️ Skills</h1>
 
 ###
-
+<p align="left">
 • Languages: Python, SQL
 <br/>
 • Frameworks/Tools: Flask, GitHub
 <br/>
 • Other: Database Management, Web Development Basics
+</p>
 
 ###
 
