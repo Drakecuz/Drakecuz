@@ -22,6 +22,18 @@
 
 ###
 
+<h1 align="left">🦹‍♂️ Skills</h1>
+
+###
+
+• Languages: Python, SQL
+<br/>
+• Frameworks/Tools: Flask, GitHub
+<br/>
+• Other: Database Management, Web Development Basics
+
+###
+
 <h2 align="left">Currently learning and coding with:</h2>
 
 ###
