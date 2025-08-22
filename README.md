@@ -1,13 +1,13 @@
-<h1 align="left">Hello, I'm Drake Natividad nice to meet you.</h1>
+<h1 align="left">Hello, I'm Drake Natividad.</h1>
 
 ###
 
 <p align="left">
-  Just a student.</p>
+  Nice to meet you.</p>
 
 ###
 
-<h2 align="left">🤔 About me</h2>
+<h1 align="left">🤔 About me</h1>
 
 ###
 
@@ -31,6 +31,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
 </div>
+
+###
+
+<h2 align="left">Social Media:</h2>
 
 ###
 
