@@ -2,15 +2,23 @@
 
 ###
 
-<p align="left">Im a student from Philippines currently taking BSIT.</p>
+<p align="left">
+  Just a student.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🤔 About me</h2>
 
 ###
 
-<p align="left">🎯 Goals: To be a Fullstack Web Developer someday and be more proficient with programming languages.<br>🚀 Skills: Beginner in Python, SQL, Flask.<br>📬 Contacts: drakedylannatividad17@gmail.com</p>
+<p align="left">
+• 🏫 BSIT Student at Laguna State Polytechnic University
+  <br/>
+• 👁️ Currently learning Python, Flask, SQL
+  <br/>
+• 🏆 Goal: To become a skilled Full Stack Web Developer or Mobile Application Developer
+  <br/>
+• 🤖 Interested in Software Development, Cloud Computing, and UI/UX Design <br> • 📬 Contacts: drakedylannatividad17@gmail.com</p>
 
 ###
 
